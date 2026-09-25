@@ -11,20 +11,27 @@
   <rect width="1400" height="390" rx="30" fill="url(#bg)"/>
   <circle cx="1210" cy="55" r="190" fill="#073546" opacity=".11" filter="url(#blur)"/>
   <circle cx="1320" cy="330" r="170" fill="#FA6A48" opacity=".16" filter="url(#blur)"/>
-  <g fill="none" stroke="#073546" stroke-width="4" opacity=".55">
-    <path d="M890 90L1080 195L890 300Z"/>
-    <path d="M1080 195H1320"/>
-    <path d="M890 90H760"/><path d="M890 300H760"/>
+  <g fill="none" stroke="#073546" stroke-width="4" opacity=".55" stroke-linecap="round">
+    <path d="M900 105H1050"/>
+    <path d="M900 195H1050"/>
+    <path d="M900 285H1050"/>
+    <path d="M1110 195H1250"/>
   </g>
   <g fill="#073546">
-    <circle cx="760" cy="90" r="17"/><circle cx="760" cy="300" r="17"/><circle cx="1080" cy="195" r="36"/>
+    <circle cx="870" cy="105" r="25"/><circle cx="870" cy="195" r="25"/><circle cx="870" cy="285" r="25"/>
+    <circle cx="1080" cy="195" r="30" fill="#C1CDBF"/>
   </g>
-  <circle cx="1320" cy="195" r="28" fill="#FA6A48"/>
+  <circle cx="1280" cy="195" r="28" fill="#FA6A48"/>
   <path d="M1307 195l9 9 18-22" fill="none" stroke="#F8F5EE" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
   <g font-family="Arial, sans-serif">
     <text x="80" y="125" fill="#073546" font-size="54" font-weight="700" letter-spacing="1">ANOUAR ZNAGUI HASSANI</text>
     <text x="84" y="188" fill="#073546" font-size="30">Solution architect · Data · AI · Software</text>
     <text x="84" y="245" fill="#073546" font-size="25">From a clear question to a working solution.</text>
     <text x="84" y="302" fill="#073546" opacity=".72" font-size="18">Designing and building with attention to data, people and what happens next.</text>
+    <text x="870" y="113" fill="#F8F5EE" font-size="18" font-weight="700" text-anchor="middle">A</text>
+    <text x="870" y="203" fill="#F8F5EE" font-size="18" font-weight="700" text-anchor="middle">B</text>
+    <text x="870" y="293" fill="#F8F5EE" font-size="18" font-weight="700" text-anchor="middle">C</text>
+    <text x="1080" y="203" fill="#073546" font-size="18" font-weight="700" text-anchor="middle">↔</text>
+    <text x="1280" y="203" fill="#F8F5EE" font-size="18" font-weight="700" text-anchor="middle">✓</text>
   </g>
 </svg>
