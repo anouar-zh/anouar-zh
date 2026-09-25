@@ -2,9 +2,9 @@
 
 # Anouar Znagui Hassani
 
-**Solution architect · Data, AI and software · Nijmegen**
+**Solution architect · Data, AI and automation · Nijmegen**
 
-I design and build practical solutions at the intersection of data, AI and software. My starting point is the work that needs to improve: which decision should become clearer, which action can become simpler, and who will use the result?
+I design and build practical solutions at the intersection of data, AI and automation. My starting point is the work that needs to improve: which decision should become clearer, which action can become simpler, and who will use the result?
 
 ## What I work on
 
