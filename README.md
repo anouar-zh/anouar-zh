@@ -1,3 +1,5 @@
+![Anouar Znagui Hassani](assets/anouar-profile-header.svg)
+
 # Anouar Znagui Hassani
 
 **Solution architect · Data, AI and software · Nijmegen**
@@ -10,6 +12,10 @@ I design and build practical solutions at the intersection of data, AI and softw
 - AI applications that fit real workflows
 - Architecture that can be built, tested and maintained
 - Governance with access rights, human control, logging and monitoring
+
+## How I work
+
+I start with the problem, connect strategy to architecture, and build toward something people can use. I make assumptions visible, test with practical situations and keep ownership clear after delivery.
 
 ## Current project
 
